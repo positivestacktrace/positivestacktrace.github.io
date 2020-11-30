@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postive Stacktrace</title>
+    <link>http://positivestacktrace.com/</link>
+    <description>Recent content on Postive Stacktrace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>positivestacktrace.com</copyright>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://positivestacktrace.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Formation</title>
+      <link>http://positivestacktrace.com/posts/cloud-formation/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://positivestacktrace.com/posts/cloud-formation/</guid>
+      <description>Failed to create/update the stack.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://positivestacktrace.com/about/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://positivestacktrace.com/about/</guid>
+      <description>Stack traces are great, but are a real downer. Always telling what you did wrong. No one likes that much negativity in their lives. We need something more positive.
+Namaste.</description>
+    </item>
+    
+  </channel>
+</rss>
